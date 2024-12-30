@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋 I'm Samuel Bailor</h1>
 
-# 💫 About Me:
+## 💫 About Me:
 I’m Samuel Bailor, a Full-Stack Software Engineer with a B.S. in Computer Science from UMBC. With 3+ years of experience, I’ve built NLP applications, Signals Analysis applications, AI-powered chatbots, and automation tools to simplify lives. I’ve worked at startups and Fortune 500 companies, making a meaningful impact at each. My background in freelance graphic design adds a creative edge to my technical work.  
 
-## 🌐 Connect with me:
+## 🌐 More of Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-bailor/)
-[![Portfolio](https://img.shields.io/badge/portfolio-grey?style=for-the-badge&logo=nextdotjs)](https://bailor.vercel.app/)
+[![GitLab](https://img.shields.io/badge/GitLab-grey?style=for-the-badge&logo=gitlab)](https://gitlab.com/users/samuelbailor/projects)
+[![Portfolio](https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=nextdotjs&logoColor=black)](https://bailor.vercel.app/)
 
-# 💻 Tech Stack:
+
+## 💻 Tech Stack:
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white) 
