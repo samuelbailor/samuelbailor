@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Samuel Bailor</h1>
 
 ## 💫 About Me:
-I’m Samuel Bailor, a Full-Stack Software Engineer with a B.S. in Computer Science from UMBC. With 3+ years of experience, I’ve built NLP applications, Signals Analysis applications, AI-powered chatbots, and automation tools to simplify lives. I’ve worked at startups and Fortune 500 companies, making a meaningful impact at each. My background in freelance graphic design adds a creative edge to my technical work.  
+I’m a Full-Stack Software Engineer with a B.S. in Computer Science from UMBC. With 3+ years of experience, I’ve built NLP applications, Signals Analysis applications, AI-powered chatbots, and automation tools to simplify lives. I’ve worked at startups and Fortune 500 companies, making a meaningful impact at each. My background in freelance graphic design adds a creative edge to my technical work.  
 
 ## 🌐 More of Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-bailor/)
