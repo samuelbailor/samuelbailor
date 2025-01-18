@@ -5,8 +5,9 @@ I’m a Full-Stack Software Engineer with a B.S. in Computer Science from UMBC. 
 
 ## 🌐 More of Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-bailor/)
-[![GitLab](https://img.shields.io/badge/GitLab-grey?style=for-the-badge&logo=gitlab)](https://gitlab.com/users/samuelbailor/projects)
+[![Resume](https://img.shields.io/badge/resume-red?style=for-the-badge&logo=google&logoColor=black)](https://docs.google.com/document/d/1NL-soVXwn5Q74OOs8KrJnfeWlYSsz496-ZTdk_tEm0k/edit?tab=t.0)
 [![Portfolio](https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=nextdotjs&logoColor=black)](https://bailor.vercel.app/)
+[![GitLab](https://img.shields.io/badge/GitLab-grey?style=for-the-badge&logo=gitlab)](https://gitlab.com/users/samuelbailor/projects)
 
 
 ## 💻 Tech Stack:
